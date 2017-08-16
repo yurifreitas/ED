@@ -1,2 +1,2 @@
-# <h1><strong style="align:center; color:red;"> ED 1 </strong> </h1>
+# <h1><strong> Estruturas de Dados 1 - 2º Semestre</strong> </h1>
 
