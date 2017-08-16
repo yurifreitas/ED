@@ -1,1 +1,7 @@
-# <h1> ED 1 </h1>
+# <h1><strong> ED 1 </strong> </h1>
+<style>
+h1{
+color: red;
+}
+
+</style>
